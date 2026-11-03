@@ -1,0 +1,101 @@
+description,severity
+"Production application is completely unavailable",Critical
+"All customers receive server errors when logging in",Critical
+"Payment gateway charges customers multiple times",Critical
+"Customer account information is visible to other users",Critical
+"Database outage prevents all orders from being processed",Critical
+"Application crashes whenever checkout is submitted",Critical
+"Authentication service is down for every customer",Critical
+"Sensitive passwords are exposed in application logs",Critical
+"All API requests return internal server errors",Critical
+"Production deployment caused the entire website to stop working",Critical
+"Users can access another customer's private documents",Critical
+"Credit card details are stored without protection",Critical
+"Every transaction fails because payment processing is unavailable",Critical
+"Application crashes immediately after successful login",Critical
+"Critical database records are being deleted unexpectedly",Critical
+"Unauthorized users can access administrator accounts",Critical
+"Order processing is completely broken for all users",Critical
+"Security vulnerability allows access without authentication",Critical
+"All users are unable to reset their passwords",Critical
+"Server outage prevents the application from starting",Critical
+"Customer balances are incorrectly deducted across accounts",Critical
+"Production API exposes confidential customer information",Critical
+"Application crashes when users open the main dashboard",Critical
+"Payment transactions are processed twice for the same order",Critical
+"Database corruption makes customer records unavailable",Critical
+"Password reset fails for several users",High
+"Checkout fails when customers use certain payment cards",High
+"Search functionality returns incomplete results",High
+"Large document uploads consistently fail",High
+"Users cannot update their profile information",High
+"API returns incorrect information for valid requests",High
+"User sessions expire immediately after authentication",High
+"Email verification links do not work",High
+"Order confirmation emails are not delivered",High
+"Application becomes extremely slow during checkout",High
+"Product inventory is not updated after purchases",High
+"Users cannot download their invoices",High
+"Mobile application freezes when opening account settings",High
+"Important reports cannot be exported to PDF",High
+"Login fails for users with special characters in passwords",High
+"Notifications are not delivered for successful payments",High
+"File upload fails intermittently for normal documents",High
+"API authentication rejects valid access tokens",High
+"Customers cannot cancel orders through the application",High
+"Application returns incorrect tax calculations",High
+"Payment status remains pending after successful payment",High
+"Users cannot access their transaction history",High
+"Password change operation returns an unexpected error",High
+"Product images fail to load on several pages",High
+"Order tracking information is not refreshed",High
+"Category filter does not apply selected options",Medium
+"Date is displayed in the wrong format",Medium
+"Notification count does not refresh automatically",Medium
+"Sorting displays products in reverse order",Medium
+"Form validation message is unclear",Medium
+"Dashboard chart labels overlap",Medium
+"Profile picture does not update immediately",Medium
+"Search suggestions disappear while typing",Medium
+"Pagination skips some records",Medium
+"Dropdown menu closes unexpectedly",Medium
+"Application does not remember selected language",Medium
+"Users must refresh the page to see updated settings",Medium
+"Table columns are displayed in the wrong order",Medium
+"Incorrect tooltip appears on the settings page",Medium
+"Session warning appears earlier than expected",Medium
+"Product comparison feature shows duplicate items",Medium
+"Calendar does not highlight the selected date",Medium
+"Password strength indicator updates incorrectly",Medium
+"Application displays an incorrect notification timestamp",Medium
+"Download button requires two clicks to respond",Medium
+"Filter selection is lost when navigating back",Medium
+"Profile page displays outdated information until refreshed",Medium
+"Some dashboard widgets load with a delay",Medium
+"Minor alignment issue in the navigation menu",Low
+"Button colour differs slightly from the design",Low
+"Small spacing issue on the settings page",Low
+"Typo in the help page heading",Low
+"Icon is slightly misaligned",Low
+"Footer text has incorrect capitalization",Low
+"Minor border inconsistency on a card",Low
+"Logo appears slightly smaller than the design",Low
+"Small padding difference in the contact form",Low
+"One tooltip has inconsistent font styling",Low
+"Minor shadow difference on dashboard cards",Low
+"Text alignment is slightly inconsistent in the footer",Low
+"Decorative icon has a small visual offset",Low
+"Button hover colour is slightly inconsistent",Low
+"Small margin difference between two sections",Low
+"Minor font size inconsistency in a heading",Low
+"Placeholder text is slightly misaligned",Low
+"Nonessential divider line is missing on a page",Low
+"Small visual gap appears below the navigation bar",Low
+"Minor capitalization issue in a label",Low
+"Card border radius differs slightly from other cards",Low
+"Footer link spacing is inconsistent",Low
+"Small icon size difference in the profile section",Low
+"Minor visual inconsistency in the page background",Low
+"Decorative image is slightly stretched",Low
+"Selected tab is not highlighted after navigation",Medium
+"Table header alignment changes when sorting records",Medium
